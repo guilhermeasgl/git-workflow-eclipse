@@ -1,4 +1,4 @@
-package jogatina.buraco.tests;
+package jogatina.buraco.test;
 
 import static org.junit.jupiter.api.Assertions.*;
 

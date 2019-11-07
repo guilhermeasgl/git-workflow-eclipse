@@ -1,4 +1,4 @@
-package jogatina.buraco.tests;
+package jogatina.buraco.test;
 
 import java.io.File;
 import java.net.MalformedURLException;
